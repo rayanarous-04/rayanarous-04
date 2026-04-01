@@ -1,16 +1,83 @@
-## Hi there 👋
+# 👋 Hi, I'm Rayen
 
-<!--
-**rayanarous-04/rayanarous-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering student (future specialization: Cybersecurity or AI)  
+💻 Passionate about software development, networks, and problem solving  
+🏋️‍♂️ Gym enthusiast | Discipline & consistency mindset  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 Currently in preparatory cycle, moving into engineering studies
+- 🔐 Interested in **Cybersecurity** and **Artificial Intelligence**
+- 🧠 Always learning and improving my technical skills
+- ⚡ Like building practical projects and understanding how things work deeply
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming
+- Python 🐍
+- C
+- Java ☕
+- MATLAB
+
+### 🌐 Web
+- HTML
+- CSS
+
+### 🗄️ Databases
+- SQL / MySQL
+
+### 📡 Networking
+- OSI Model & TCP/IP
+- CCNA1 fundamentals
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Python & project structuring
+- Database design & backend logic
+- Cybersecurity fundamentals
+- AI basics & machine learning concepts
+
+---
+
+## 🧩 Projects
+
+🔹 **Store Management System (Python + MySQL + Tkinter)**  
+- GUI-based desktop app  
+- Database integration  
+- CRUD operations  
+
+🔹 More projects coming soon...
+
+---
+
+## 🎯 Goals
+
+- 📜 Earn certifications in Cybersecurity / AI (free & recognized)
+- 💼 Build a strong GitHub portfolio
+- 🧑‍💻 Become a skilled engineer with real-world projects
+- 🌍 Work on impactful tech solutions
+
+---
+
+## 📊 GitHub Stats
+
+![Rayen's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: (add your link)
+- 📧 Email: (add your email)
+
+---
+
+## ⚡ Fun Fact
+
+> Discipline from the gym applies to coding: consistency beats motivation.
