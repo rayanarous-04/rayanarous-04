@@ -1,42 +1,43 @@
-# 👋 Hi, I'm Rayen
+# Hi, I'm Rayen
 
-🎓 Engineering student (future specialization: Cybersecurity or AI)  
-💻 Passionate about software development, networks, and problem solving  
-🏋️‍♂️ Gym enthusiast | Discipline & consistency mindset  
-
----
-
-## 🚀 About Me
-
-- 🎓 Currently in preparatory cycle, moving into engineering studies
-- 🔐 Interested in **Cybersecurity** and **Artificial Intelligence**
-- 🧠 Always learning and improving my technical skills
-- ⚡ Like building practical projects and understanding how things work deeply
+ Engineering student (future specialization: Cybersecurity or AI)  
+ Passionate about software development, networks, and problem solving  
+🏋 Gym enthusiast | Discipline & consistency mindset  
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
 
-### 💻 Programming
-- Python 🐍
+-  Currently in engineering cycle.
+-  Interested in **Cybersecurity** and **Artificial Intelligence**
+-  Always learning and improving my technical skills
+-  Like building practical projects and understanding how things work deeply
+
+---
+
+##  Tech Stack
+
+###  Programming
+- Python 
 - C
-- Java ☕
-- MATLAB
+- Java 
+- Linux
 
-### 🌐 Web
+###  Web
 - HTML
 - CSS
+- JavaScript
 
-### 🗄️ Databases
+###  Databases
 - SQL / MySQL
 
-### 📡 Networking
-- OSI Model & TCP/IP
+###  Networking
 - CCNA1 fundamentals
+- CCNA2 fundamentals
 
 ---
 
-## 📚 Currently Learning
+##  Currently Learning
 
 - Advanced Python & project structuring
 - Database design & backend logic
@@ -45,7 +46,7 @@
 
 ---
 
-## 🧩 Projects
+##  Projects
 
 🔹 **Store Management System (Python + MySQL + Tkinter)**  
 - GUI-based desktop app  
@@ -56,22 +57,22 @@
 
 ---
 
-## 🎯 Goals
+##  Goals
 
-- 📜 Earn certifications in Cybersecurity / AI (free & recognized)
-- 💼 Build a strong GitHub portfolio
-- 🧑‍💻 Become a skilled engineer with real-world projects
-- 🌍 Work on impactful tech solutions
+-  Earn certifications in Cybersecurity / AI (free & recognized)
+-  Build a strong GitHub portfolio
+-  Become a skilled engineer with real-world projects
+-  Work on impactful tech solutions
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![Rayen's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 - 💼 LinkedIn: (add your link)
 - 📧 Email: (add your email)
