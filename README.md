@@ -74,8 +74,8 @@
 
 ##  Connect With Me
 
-- 💼 LinkedIn: (add your link)
-- 📧 Email: (add your email)
+- 💼 LinkedIn: https://www.linkedin.com/in/rayen-arous-7a6523293/
+- 📧 Email: rayan.arous@polytechnicien.tn
 
 ---
 
